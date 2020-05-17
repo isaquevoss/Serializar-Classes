@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/05/17 18:16:54.112,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/17 18:25:18.237,E:\isaque\delphi\SerializarClasse\uUnit1.dfm=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/05/17 18:25:18.237,E:\isaque\delphi\SerializarClasse\uUnit1.pas=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/17 18:25:23.648,E:\isaque\delphi\SerializarClasse\Project1.dproj=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/05/17 18:25:43.183,E:\isaque\delphi\SerializarClasse\SerializarClasse.dproj=E:\isaque\delphi\SerializarClasse\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
